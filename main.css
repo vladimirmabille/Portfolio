@@ -55,7 +55,8 @@ html {
   #site-header {
       padding: 12px 0;
       color: #1e1e1e;
-      background: #fbfbfb;
+      background: #fff0d4;
+      box-shadow: 10px 10px 70px rgba(0, 0, 0, 0.089);
       position: fixed;
       display: flex;
       text-align: center;
@@ -121,8 +122,8 @@ html {
   }
   
   #works article {
-    background-color: #fbfbfb;
-    box-shadow: 1px 1px 11px gray;
+    background-color: #ffefda;
+    box-shadow: 10px 10px 70px rgb(236, 236, 236);
     padding: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
@@ -139,13 +140,13 @@ html {
   
   #contact button {
     padding: 10px 30px;
-    background-color: yellow;
+    background-color: rgb(255, 224, 195);
   }
   
   #site-footer {
-    color: #1e1e1e;
+    color: #284433;
     padding: 30px 0;
-    background: #fbfbfb;
+    background: #ffb672;
     text-align: center;
   }
   
@@ -206,7 +207,7 @@ html {
   }
   
   .interests {
-    color: cyan;
+    color: rgb(185, 105, 1);
   }
   
   #contact {
